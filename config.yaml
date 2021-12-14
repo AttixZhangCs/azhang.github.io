@@ -176,9 +176,18 @@ menu:
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
+              newTab: false
               icon: home
-    
+
+        - identifier: resume
+          name: Resume
+          url: /resume
+          weight: -100
+          params:
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: false
+              icon: home
+   
     social:
         - identifier: github
           name: GitHub
