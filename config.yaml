@@ -1,4 +1,4 @@
-baseurl: https://attixzhangcs.github.io/azhang.github.io
+baseurl: https://attixzhangcs.github.io/azhang.github.io/a/b/c
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -46,7 +46,7 @@ params:
             src: img/avatar.png
 
     article:
-        math: true
+        math: false
         toc: true
         readingTime: true
         license:
