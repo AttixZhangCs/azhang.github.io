@@ -1,7 +1,7 @@
 # Page settings
-baseURL = "http://example.org/"
+baseURL = "https://attixzhangcs.github.io/azhang.github.io"
 languageCode = "en-us"
-title = "Attix Zhang web site"
+title = "Attix Zhang resume"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
